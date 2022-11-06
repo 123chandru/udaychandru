@@ -1,0 +1,6 @@
+reusableFunctions\BaseClass.class
+Runner\RunnerClass.class
+stepdefinitions\Stepdefinitions.class
+pageObject\PageObjectMethod.class
+config\reader\ConfigFileReader.class
+stepdefinitions\HooksClass.class
